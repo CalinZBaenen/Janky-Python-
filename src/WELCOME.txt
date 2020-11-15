@@ -1,0 +1,37 @@
+Hello, thanks for downloading Janky 0.0.1!
+
+Some of the feature this build includes is:
+	- Objects
+	- Tables
+	- Arrays
+	- Functions
+	- Classes
+	- Constructs
+	- Constants
+	- Variables
+	- Properties
+	- Prototypes
+	- Strings
+	- Numbers
+	- Print statements
+	- If statements
+	- Primitive and Object (variable captured) types
+	- Variable interpolations for string that usw ` (backtick)
+
+Changelog:
+	v0.0.1:
+		- No -
+
+For help do:
+	print help
+or:
+	print help.subject
+or:
+	print help.advanced
+
+Note:
+	Have fun trying out this latest version of Janky,
+	please do experiment, and if you find any bugs,
+	let me know! (IE: Leave what you wrote, and where
+	it would be occuring in the Python (if you read
+	it))
